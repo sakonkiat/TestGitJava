@@ -22,6 +22,7 @@ public class Customer {
 //        onlineStore.askCustomerToBuy();         
         onlineStore.getInputFromCustomer();
         System.out.print("555");
+        System.out.print("666");
     }
     
 }
