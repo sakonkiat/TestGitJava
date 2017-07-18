@@ -21,7 +21,7 @@ public class Customer {
  //       onlineStore.showItems();
 //        onlineStore.askCustomerToBuy();         
         onlineStore.getInputFromCustomer();
-        
+        System.out.print("555");
     }
     
 }
